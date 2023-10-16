@@ -12,7 +12,8 @@ Onedarker inspired colorscheme written in lua.
 ## Install
 
 ```lua
-use "lunarvim/Onedarker.nvim"
+use "lunarvim/Onedarker.nvim"    -- original version by LunarVim
+use "michabay05/onedarker.nvim"  -- modified version
 ```
 
 ## Activate
